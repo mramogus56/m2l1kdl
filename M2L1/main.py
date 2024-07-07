@@ -29,5 +29,5 @@ async def bsmem(ctx):
 
 
 
-bot.run('MTI1NDM0MjQ5NjQxOTMxOTg2OA.GjBkHU.TrKnjW9kBGq7mdluel-SEqMnE2mkcYhAo4nABQ')
+bot.run('token')
 
